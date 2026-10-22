@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Healthcare Project — a doctor-appointment website converted from the Figma design 'Healthcare-Project' (figma.com/design/C0elL1vOJ5yliuEk2MrYcw). Runs fully offline.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}
